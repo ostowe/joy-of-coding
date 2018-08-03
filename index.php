@@ -25,6 +25,12 @@ get_header();
 				?>
 				<header>
 					<h1 class="page-title screen-reader-text"><?php single_post_title(); ?></h1>
+					<img src="images/baby-brad.gif" alt="Animation of Brad as a baby underwater">
+					<h2>
+						   <?php
+							esc_html_e( 'Lets Do Launch', 'joy-of-coding' ); ?>
+
+							</h2>
 				</header>
 				<?php
 			endif;
