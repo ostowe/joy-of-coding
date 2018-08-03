@@ -29,7 +29,6 @@ get_header();
 					<h2>
 						   <?php
 							esc_html_e( 'Lets Do Launch', 'joy-of-coding' ); ?>
-
 							</h2>
 				</header>
 				<?php
